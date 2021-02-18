@@ -82,10 +82,10 @@ Seil Lee, Hanjoo Kim, **Seongsik Park**, Seijoon Kim, Hyeokjun Choe, Sungroh Yoo
 _IEEE **Access**_, vol. 6, no. 1, pp. 49601-49610, September 2018 <br />
 [[link](https://ieeexplore.ieee.org/abstract/document/8454427)]
 
-### Quantized Memory- Augmented Neural Networks
+### Quantized Memory-Augmented Neural Networks
 **Seongsik Park**, Seijoon Kim, Seil Lee, Ho Bae, Sungroh Yoon <br />
 in _Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (**AAAI**)_, pp.3909-3916, New Orleans, USA, February 2018 <br />
-[[link](https://ojs.aaai.org/index.php/AAAI/article/view/11704)] [[code](https://github.com/seongsikpark/Q-MANN)]
+[[link](https://ojs.aaai.org/index.php/AAAI/article/view/11704)] [[supp](https://github.com/seongsikpark/seongsikpark.github.io/files/Quantized_Memory_Augmented_Neural Networks_supp.pdf)] [[code](https://github.com/seongsikpark/Q-MANN)]
 
 
 ## 2017
