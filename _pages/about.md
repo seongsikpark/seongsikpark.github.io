@@ -42,7 +42,7 @@ _IEEE **Access**_, vol. 9, pp. 2633-2643, Jan. 2021
 _IEEE Transactions on Very Large Scale Integration (**TVLSI**) Systems_, vol. 20, no. 1, pp. 162-175, Jan. 2021
 
 
-# 2020
+## 2020
 
 ### T2FSNN: Deep Spiking Neural Networks with Time-to-first-spike Coding
 **Seongsik Park**, Seijoon Kim, Byunggook Na, Sungroh Yoon
