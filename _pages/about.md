@@ -12,9 +12,9 @@ redirect_from:
 Biography
 ======
 I'm a postdoctoral researcher in Seoul National University, South Korea.
-I received the B.S., M.S., and Ph.D. degrees in electrical engineering from Seoul National University, South Korea, in 2010, 2012, and 2020, respectively.
+I received the B.S., M.S., and Ph.D. degrees in electrical engineering and computer science from Seoul National University, South Korea, in 2010, 2012, and 2020, respectively.
 Before the Ph.D course, I was with SK Hynix, South Korea, from 2012 to 2015.
-My research interests include energy-efficient system for machine learning and brain-inspired (neuromorphic) computing.
+My research interests include energy-efficient system for machine learning and neuromorphic computing.
 
 
 Research Interests
@@ -35,11 +35,11 @@ in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, 
 
 ### Towards fast and accurate object detection in bio-inspired spiking neural networks through Bayesian optimization
 Seijoon Kim, **Seongsik Park**, Byunggook Na, Jongwan Kim, Sungroh Yoon
-_IEEE Access_, vol. 9, pp. 2633-2643, Jan. 2021
+_IEEE **Access**_, vol. 9, pp. 2633-2643, Jan. 2021
 
-### Memory- Augmented Neural Networks on FPGA for Real-Time and Energy-Efficient Question Answering
+### Memory-Augmented Neural Networks on FPGA for Real-Time and Energy-Efficient Question Answering
  **Seongsik Park**, Jaehee Jang, Seijoon Kim, Byunggook Na, Sungroh Yoon
-_IEEE Transactions on Very Large Scale Integration (TVLSI) Systems_, vol. 20, no. 1, pp. 162-175, Jan. 2021
+_IEEE Transactions on Very Large Scale Integration (**TVLSI**) Systems_, vol. 20, no. 1, pp. 162-175, Jan. 2021
 
 
 # 2020
@@ -72,7 +72,7 @@ in _Proceedings of Design, Automation and Test in Europe (**DATE**)_, Florence, 
 
 ### CloudSocket: Fine-Grained Power Sensing System for Datacenters
 Seil Lee, Hanjoo Kim, **Seongsik Park**, Seijoon Kim, Hyeokjun Choe, Sungroh Yoon
-_IEEE Access_, vol. 6, no. 1, pp. 49601-49610
+_IEEE **Access**_, vol. 6, no. 1, pp. 49601-49610
 
 ### Quantized Memory- Augmented Neural Networks
 **Seongsik Park**, Seijoon Kim, Seil Lee, Ho Bae, Sungroh Yoon
@@ -83,18 +83,18 @@ in _Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence 
 
 ### Near-Data Processing for Differentiable Machine Learning Models
 Hyeokjun Choe, Seil Lee, Hyunha Nam, **Seongsik Park**, Seijoon Kim, Eui-Young Chung, Sungroh Yoon
-in _Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (MSST)_, Santa Clara, USA, May 2017
+in _Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**)_, Santa Clara, USA, May 2017
 
 
 # 2016
 
 ### An Efficient Method to Boosting Performance of Spiking Neural Network Training
 **Seongsik Park**, Sang-gil Lee, Hyunha Nam, Sungroh Yoon,
-in _the Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) Workshop on Computing with Spikes_, Barcelona, Spain, December 2016.
+in _the Thirtieth Annual Conference on Neural Information Processing Systems (**NIPS**) Workshop on Computing with Spikes_, Barcelona, Spain, December 2016.
 
 ### CloudSocket: Smart Grid Platform for Datacenters
 Seil Lee, Hanjoo Kim, **Seongsik Park**, Seijoon Kim, Hyeokjun Choe, Chang-Sung Jeong, Sungroh Yoon
-in _Proceedings of the 34th IEEE International Conference on Computer Design (ICCD)_, pp. 436-439, Phoenix, USA, October 2016
+in _Proceedings of the 34th IEEE International Conference on Computer Design (**ICCD**)_, pp. 436-439, Phoenix, USA, October 2016
 
 
 # ~ 2015
@@ -105,8 +105,8 @@ in _Proceedings of Design, Automation and Test in Europe (**DATE**)_, Dresden, G
 
 ### Techniques for improvng coarse-grained reconfigurable architectures
 Kyuseung Han, **Seongsik Park**, Kiyoung Choi, Jong Kyung Paek, Jongeun Lee
-in _Proceedings of the 54th IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)_, Seoul, Korea, August 2011
+in _Proceedings of the 54th IEEE International Midwest Symposium on Circuits and Systems (**MWSCAS**)_, Seoul, Korea, August 2011
 
 ### An approach to code compression for CGRA
 **Seongsik Park** and Kiyoung Choi
-in _Proceedings of the 3rd Asia Symposium on Quality Electronic Design (ASQED)_, Kuala Lumpur, Malaysia, July 2011
+in _Proceedings of the 3rd Asia Symposium on Quality Electronic Design (**ASQED**)_, Kuala Lumpur, Malaysia, July 2011
