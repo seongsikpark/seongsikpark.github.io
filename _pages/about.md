@@ -26,7 +26,6 @@ Research Interests
 
 Publications
 ======
-
 ## 2021
 
 ### Noise-Robust Deep Spiking Neural Networks with Temporal Information
