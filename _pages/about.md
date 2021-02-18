@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-I'm a postdoctoral researcher in Seoul National University, South Korea.
+I'm a postdoctoral researcher at Seoul National University, South Korea.
 I received the B.S., M.S., and Ph.D. degrees in electrical engineering and computer science from Seoul National University, South Korea, in 2010, 2012, and 2020, respectively.
 Before the Ph.D course, I was with SK Hynix, South Korea, from 2012 to 2015.
 My research interests include energy-efficient system for machine learning and neuromorphic computing.
@@ -85,7 +85,7 @@ _IEEE **Access**_, vol. 6, no. 1, pp. 49601-49610, September 2018 <br />
 ### Quantized Memory-Augmented Neural Networks
 **Seongsik Park**, Seijoon Kim, Seil Lee, Ho Bae, Sungroh Yoon <br />
 in _Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (**AAAI**)_, pp.3909-3916, New Orleans, USA, February 2018 <br />
-[[link](https://ojs.aaai.org/index.php/AAAI/article/view/11704)] [[supp](https://github.com/seongsikpark/seongsikpark.github.io/files/Quantized_Memory_Augmented_Neural_Networks_supp.pdf)] [[code](https://github.com/seongsikpark/Q-MANN)]
+[[link](https://ojs.aaai.org/index.php/AAAI/article/view/11704)] [[supp](https://seongsikpark.github.io/files/Quantized_Memory_Augmented_Neural_Networks_supp.pdf)] [[code](https://github.com/seongsikpark/Q-MANN)]
 
 
 ## 2017
