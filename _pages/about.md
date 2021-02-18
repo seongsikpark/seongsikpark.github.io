@@ -35,8 +35,9 @@ in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, 
 
 ### Towards fast and accurate object detection in bio-inspired spiking neural networks through Bayesian optimization
 Seijoon Kim, **Seongsik Park**, Byunggook Na, Jongwan Kim, Sungroh Yoon <br />
-_IEEE **Access**_, vol. 9, pp. 2633-2643, Jan. 2021
+_IEEE **Access**_, vol. 9, pp. 2633-2643, Jan. 2021 <br />
 [link](http://github.com)
+[[link](http://github.com)]
 
 ### Memory-Augmented Neural Networks on FPGA for Real-Time and Energy-Efficient Question Answering
  **Seongsik Park**, Jaehee Jang, Seijoon Kim, Byunggook Na, Sungroh Yoon <br />
