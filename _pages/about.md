@@ -29,11 +29,9 @@ Publications
 
 ## 2021
 
-<pre>
 ### Noise-Robust Deep Spiking Neural Networks with Temporal Information
-**Seongsik Park**, Dongjin Lee, Sungroh Yoon
+**Seongsik Park**, Dongjin Lee, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, July 2021 (to appear)
-</pre>
 
 ### Towards fast and accurate object detection in bio-inspired spiking neural networks through Bayesian optimization
 Seijoon Kim, **Seongsik Park**, Byunggook Na, Jongwan Kim, Sungroh Yoon
