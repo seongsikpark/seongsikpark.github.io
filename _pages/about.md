@@ -29,13 +29,14 @@ Publications
 
 ## 2021
 
-### Noise-Robust Deep Spiking Neural Networks with Temporal Information
+### Noise-Robust Deep Spiking Neural Networks with Temporal Information [link](http://github.com)
 **Seongsik Park**, Dongjin Lee, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, July 2021 (to appear)
 
 ### Towards fast and accurate object detection in bio-inspired spiking neural networks through Bayesian optimization
 Seijoon Kim, **Seongsik Park**, Byunggook Na, Jongwan Kim, Sungroh Yoon <br />
 _IEEE **Access**_, vol. 9, pp. 2633-2643, Jan. 2021
+[link](http://github.com)
 
 ### Memory-Augmented Neural Networks on FPGA for Real-Time and Energy-Efficient Question Answering
  **Seongsik Park**, Jaehee Jang, Seijoon Kim, Byunggook Na, Sungroh Yoon <br />
