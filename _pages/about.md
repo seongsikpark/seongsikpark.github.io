@@ -9,12 +9,6 @@ redirect_from:
 ---
 
 
-Personal Homepage 
-
-Under construction...
-=====
-
-
 Biography
 ======
 I'm a postdoctoral researcher in Seoul National University, South Korea.
