@@ -13,8 +13,8 @@ Biography
 ======
 I'm a postdoctoral researcher at Seoul National University, South Korea.
 I received the B.S., M.S., and Ph.D. degrees in electrical engineering and computer science from Seoul National University, South Korea, in 2010, 2012, and 2020, respectively.
-Before the Ph.D course, I was with SK Hynix, South Korea, from 2012 to 2015.
-My research interests include energy-efficient system for machine learning and neuromorphic computing.
+Before the Ph.D. course, I was with SK Hynix, South Korea, from 2012 to 2015.
+My research interests include energy-efficient systems for machine learning and neuromorphic computing.
 
 
 Research Interests
