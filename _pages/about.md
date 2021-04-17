@@ -52,7 +52,7 @@ in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, 
 
 ### Energy-aware Placement for SRAM-NVM Hybrid FPGAs
 **Seongsik Park**, Jongwan Kim, Sungroh Yoon <br />
-in _Proceedings of Design, Automation and Test in Europe (**DATE**)_, pp. 858-863, Grenoble, France, March 2020 <br />
+in _Proceedings of Design, Automation and Test in Europe (**DATE**)_, pp. 858-863, Grenoble, France, March 2020 (acceptance ratio: 26%) <br />
 [[link](https://ieeexplore.ieee.org/abstract/document/9116487)]
 
 ### Spiking-YOLO: Spiking Neural Network for Energy-efficient Object Detection
