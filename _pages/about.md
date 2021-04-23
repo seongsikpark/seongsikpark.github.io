@@ -31,6 +31,7 @@ Publications
 ### Noise-Robust Deep Spiking Neural Networks with Temporal Information
 **Seongsik Park**, Dongjin Lee, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, July 2021 (to appear) (acceptance ratio: 23%)
+[[arXiv](https://arxiv.org/abs/2104.11169)]
 
 ### Towards fast and accurate object detection in bio-inspired spiking neural networks through Bayesian optimization
 Seijoon Kim, **Seongsik Park**, Byunggook Na, Jongwan Kim, Sungroh Yoon <br />
@@ -48,7 +49,7 @@ _IEEE Transactions on Very Large Scale Integration (**TVLSI**) Systems_, vol. 20
 ### T2FSNN: Deep Spiking Neural Networks with Time-to-first-spike Coding
 **Seongsik Park**, Seijoon Kim, Byunggook Na, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, July 2020 (acceptance ratio: 23%) <br />
-[[link](https://ieeexplore.ieee.org/abstract/document/9218689)]
+[[link](https://ieeexplore.ieee.org/abstract/document/9218689)] [[arXiv](https://arxiv.org/abs/2003.11741)]
 
 ### Energy-aware Placement for SRAM-NVM Hybrid FPGAs
 **Seongsik Park**, Jongwan Kim, Sungroh Yoon <br />
@@ -66,7 +67,7 @@ in _Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence 
 ### Fast and Efficient Information Transmission with Burst Spikes in Deep Spiking Neural Networks
 **Seongsik Park**, Seijoon Kim, Hyeokjun Choe, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, Las Vegas, USA, June 2019 (acceptance ratio: 24.8%) <br />
-[[link](https://ieeexplore.ieee.org/abstract/document/8807080)]
+[[link](https://ieeexplore.ieee.org/abstract/document/8807080)] [[arXiv](https://arxiv.org/abs/1809.03142)]
 
 ### Energy-Efficient Inference Accelerator for Memory-Augmented Neural Networks on FPGA
 **Seongsik Park**, Jahee Jang, Seijoon Kim, Sungroh Yoon <br />
