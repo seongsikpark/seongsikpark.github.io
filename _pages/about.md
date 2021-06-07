@@ -28,6 +28,11 @@ Publications
 ======
 ## 2021
 
+### Training Energy-Efficient Deep Spiking Neural Networks with Time-to-First-Spike Coding
+**Seongsik Park**, Sungroh Yoon <br />
+arXiv, June, 2021 <br />
+[[arXiv](https://arxiv.org/abs/2106.02568)]
+
 ### Noise-Robust Deep Spiking Neural Networks with Temporal Information
 **Seongsik Park**, Dongjin Lee, Sungroh Yoon <br />
 in _Proceedings of Design Automation Conference (**DAC**)_, San Francisco, USA, July 2021 (to appear) (acceptance ratio: 23%) <br />
