@@ -26,12 +26,22 @@ Research Interests
 
 Publications
 ======
-## 2021
+
+## Preprint (arXiv)
 
 ### Training Energy-Efficient Deep Spiking Neural Networks with Time-to-First-Spike Coding
 **Seongsik Park**, Sungroh Yoon <br />
 arXiv, June, 2021 <br />
 [[arXiv](https://arxiv.org/abs/2106.02568)]
+
+### Energy-efficient Knowledge Distillation for Spiking Neural Networks
+Dongjin Lee, **Seongsik Park**, Jongwan Kim, Wuhyeong Doh, Sungroh Yoon <br />
+arXiv, June, 2021 <br />
+[[arXiv](https://arxiv.org/abs/2106.07172)]
+
+
+## 2021
+
 
 ### Noise-Robust Deep Spiking Neural Networks with Temporal Information
 **Seongsik Park**, Dongjin Lee, Sungroh Yoon <br />
